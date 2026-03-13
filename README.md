@@ -32,7 +32,7 @@ bun run dev:producer
 1. Matikan consumer:
 
 ```bash
-docker kill campus-lab-consumer
+docker compose kill campus-lab-consumer
 ```
 
 2. Kirim event lagi:

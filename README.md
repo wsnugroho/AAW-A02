@@ -1,4 +1,4 @@
-# Campus Lab Incident Processing
+# Tugas A02 (Arsitektur Aplikasi Web)
 
 ## 1) Cara menjalankan
 

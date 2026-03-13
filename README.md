@@ -46,7 +46,7 @@ bun run dev:producer
 4. Hidupkan kembali consumer:
 
 ```bash
-docker compose start consumer
+docker compose start campus-lab-consumer
 ```
 
 5. Pesan akan langsung dikonsumsi dan hasilnya tersimpan di Database.
